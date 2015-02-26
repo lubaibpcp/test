@@ -6,6 +6,10 @@ fifgdskahvmv (){
 
 Showalert(){}
 
+<<<<<<< HEAD
 
 
 crap(){}
+=======
+test(){}
+>>>>>>> origin/master
