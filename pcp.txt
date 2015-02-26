@@ -3,13 +3,5 @@ arun editing this file
 fifgdskahvmv (){
 }
 
-
-Showalert(){}
-
-<<<<<<< HEAD
-
-
-crap(){}
-=======
-test(){}
->>>>>>> origin/master
+lubaib pcp
+lulughar
